@@ -1,4 +1,4 @@
-# by M0dSe7en Lunar NPP Theme "a sleek and beautiful theme for notepad++"
+# by M0dSe7en: Lunar NPP Theme "a sleek and beautiful theme for notepad++"
 
 The Lunar Theme (v1.3) by M0dSe7en
 I saw that the Link to the Theme was down:
