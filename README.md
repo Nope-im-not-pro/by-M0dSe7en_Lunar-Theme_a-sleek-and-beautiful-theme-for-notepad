@@ -1,4 +1,4 @@
-# by M0dSe7en Lunar NPP Theme "a sleek and beautiful theme for notepad"
+# by M0dSe7en Lunar NPP Theme "a sleek and beautiful theme for notepad++"
 
 The Lunar Theme (v1.3) by M0dSe7en
 I saw that the Link to the Theme was down:
@@ -8,6 +8,6 @@ So I checked where to find the XML and hopefully made it easier for everyone to 
 
 This text is my only contribution(!), so thank M0dSe7en.
 
-Please checkout the repo of jamunano:
+Please checkout the repo of **jamunano**:
 Syntax highlighting for AutoHotKey in Notepad++
 https://github.com/jamunano/AHK-for-Notepad-#readme
